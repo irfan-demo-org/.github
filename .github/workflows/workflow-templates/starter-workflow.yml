@@ -1,4 +1,4 @@
-name: Starter Workflow
+name: Irf-demo-org Organization CI
 on:
   push:
     branches: [ $default-branch  ]
