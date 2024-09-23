@@ -1,6 +1,6 @@
 {
     "name": "Irf-demo-org Organization Workflow",
-    "description": "Starter workflow template.",
+    "description": "Irf-demo-org Organization CI workflow template.",
     "categories": [
         "Go"
     ],
