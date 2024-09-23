@@ -1,0 +1,13 @@
+{
+    "name": "Irf-demo-org Organization Workflow",
+    "description": "Starter workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
